@@ -1,0 +1,298 @@
+[
+  {
+    "question": "What role does TAF6 delta play in inducing apoptosis?",
+    "answer": "TAF6 \u03b4 plays a pro-apoptotic role by inducing programmed cell death independently of p53 [orchestrates an apoptotic transcriptome \u2014 Background]. It acts downstream and independently of p53 to control gene expression at the onset of apoptosis [8]. The use of splice-switching oligonucleotides (SSO) to experimentally direct the expression of endogenous TAF6 \u03b4 in living cells has demonstrated its pro-apoptotic activity [5]. \n\nReferences:\n- [orchestrates an apoptotic transcriptome \u2014 Background] \n- [8] (presumably the same paper as \"orchestrates an apoptotic transcriptome\")\n- [5] (cited in \"orchestrates an apoptotic transcriptome \u2014 Background\")",
+    "chunks_retrieved": 3,
+    "sources": [
+      {
+        "paper": "orchestrates an apoptotic transcriptome",
+        "section": "Background",
+        "score": 1.0,
+        "sources": [
+          "hyde",
+          "bm25",
+          "reranked",
+          "dense"
+        ]
+      },
+      {
+        "paper": "Theoretical Biology and Medical",
+        "section": "Circumstantial context analysis on actual transcriptome",
+        "score": 0.316,
+        "sources": [
+          "hyde",
+          "bm25",
+          "reranked",
+          "dense"
+        ]
+      }
+    ]
+  },
+  {
+    "question": "How does inhibition of mitochondrial respiration affect BRAF mutant melanoma brain metastasis?",
+    "answer": "Inhibition of mitochondrial respiration prevents resistance to BRAF inhibition (BRAFi) therapy in BRAF-mutant melanoma brain metastasis [Inhibition of mitochondrial respiration \u2014 Discussion]. Specifically, \u03b2-sitosterol, which inhibits mitochondrial respiration, efficiently prevented resistance to BRAFi therapy in vivo in BRAF-mutant melanoma brain metastasis [Inhibition of mitochondrial respiration \u2014 Discussion]. This is consistent with the observation that BRAF-mutant melanomas treated with vemurafenib (a BRAFi) exhibit up-regulated mitochondrial respiration, leading to potential resistance [Inhibition of mitochondrial respiration \u2014 Results]. \n\nTherefore, inhibiting mitochondrial respiration, such as with \u03b2-sitosterol, may be a useful strategy to prevent resistance to BRAFi therapy in BRAF-mutant melanoma brain metastasis.",
+    "chunks_retrieved": 10,
+    "sources": [
+      {
+        "paper": "Inhibition of mitochondrial respiration",
+        "section": "Discussion",
+        "score": 1.0,
+        "sources": [
+          "hyde",
+          "bm25",
+          "reranked",
+          "dense"
+        ]
+      },
+      {
+        "paper": "UC Davis Previously Published Works",
+        "section": "Results",
+        "score": 0.683,
+        "sources": [
+          "hyde",
+          "bm25",
+          "reranked",
+          "dense"
+        ]
+      }
+    ]
+  },
+  {
+    "question": "What is the function of ParB protein in centromere biology?",
+    "answer": "ParB is a DNA-binding protein that nucleates on a parS sequence, which is a centromere-like DNA sequence [Permissive zones for the centromere-binding protei]. It is involved in centromere biology by binding to parS and spreading to surrounding regions, up to a maximum of 2 kb around individual parS [Permissive zones for the centromere-binding protei]. The protein is essential for its function, as demonstrated by the viability of Caulobacter cells producing FLAG-tagged ParB, indicating that the tag does not interfere with ParB function [Permissive zones for the centromere-binding protei \u2014 Caption: Figure 1]. \n\nThe exact mechanism and extent of ParB spreading may vary, but its role in binding to parS is a crucial aspect of its function. [Permissive zones for the centromere-binding protei].",
+    "chunks_retrieved": 15,
+    "sources": [
+      {
+        "paper": "Permissive zones for the centromere-binding protein",
+        "section": "INTRODUCTION",
+        "score": 1.0,
+        "sources": [
+          "hyde",
+          "bm25",
+          "reranked",
+          "dense"
+        ]
+      }
+    ]
+  },
+  {
+    "question": "What antisense oligonucleotides were used to induce TAF6 delta expression?",
+    "answer": "The antisense oligonucleotides used to induce TAF6 delta expression were SSO T6-1 and SSO T6-3, as well as Taf6 AS1. \n\nSpecifically, SSO T6-1 and SSO T6-3 were used to force splicing from the distal 5' SS and enforce expression of the endogenous TAF6 \u03b4 isoform [Controls Apoptosis and Gene Expression in the \u2014 TAF6 d protein levels]. Taf6 AS1 was also shown to induce TAF6 \u03b4 mRNA expression and concurrently decrease the level of the major TAF6 \u03b1 mRNA [Controls Apoptosis and Gene Expression in the \u2014 Selective induction of endogenous TAF6 d mRNA]. \n\nAdditionally, 2'-O-methyl-oligoribonucleoside phosphorothioate antisense 20-mers from Sigma-Proligo were used as the antisense oligonucleotides [Controls Apoptosis and Gene Expression in the \u2014 Selective induction of endogenous TAF6 d mRNA].",
+    "chunks_retrieved": 15,
+    "sources": [
+      {
+        "paper": "orchestrates an apoptotic transcriptome",
+        "section": "Methods",
+        "score": 1.0,
+        "sources": [
+          "hyde",
+          "bm25",
+          "reranked",
+          "dense"
+        ]
+      },
+      {
+        "paper": "Controls Apoptosis and Gene Expression in the",
+        "section": "Caption: Figure 2",
+        "score": 0.968,
+        "sources": [
+          "hyde",
+          "bm25",
+          "reranked",
+          "dense"
+        ]
+      }
+    ]
+  },
+  {
+    "question": "How was cell viability measured in the mitochondrial inhibition experiments?",
+    "answer": "The context does not directly state how cell viability was measured. However, it mentions \"Long-term colony formation assays\" [Inhibition of mitochondrial respiration \u2014 Results], which suggests that cell viability or growth was assessed through colony formation assays. \n\nTherefore, the answer is that cell viability was measured using long-term colony formation assays [Inhibition of mitochondrial respiration]. Context is partially insufficient to provide a definitive answer.",
+    "chunks_retrieved": 8,
+    "sources": [
+      {
+        "paper": "Inhibition of mitochondrial respiration",
+        "section": "Results",
+        "score": 1.0,
+        "sources": [
+          "bm25",
+          "reranked",
+          "dense"
+        ]
+      }
+    ]
+  },
+  {
+    "question": "How do TAF6 delta induction and BRAF inhibition both affect tumor cell survival, and what mechanisms do they share?",
+    "answer": "The context is insufficient to directly compare the effects of TAF6 delta induction and BRAF inhibition on tumor cell survival, as there is no mention of BRAF inhibition in the provided context. However, it is stated that \"targeting TAF6 results in a substantially more robust apoptotic response than targeting another apoptotic gene, Bcl-x in several tumor cell lines\" [orchestrates an apoptotic transcriptome \u2014 Discussion]. \n\nTAF6 \u03b4 induces apoptosis in cell lines that lack p53 expression, and the induction of TAF6 \u03b4 produced similar levels of apoptosis in the HCT-116 p53 -/- colon carcinoma cell line as in its p53 positive counterpart [orchestrates an apoptotic transcriptome \u2014 Discussion]. The mechanisms by which TAF6 \u03b4 promotes apoptosis are not fully understood, but it is known that TAF6 \u03b4 interacts with p53 in vitro [orchestrates an apoptotic transcriptome \u2014 Discussion]. \n\nFurther characterization of the TAF6 \u03b4 signaling hub may provide novel therapeutic avenues to induce controlled tumor cell death irrespective of their p53 status [Controls Apoptosis and Gene Expression in the \u2014 Discussion] and [orchestrates an apoptotic transcriptome \u2014 Discussion].",
+    "chunks_retrieved": 15,
+    "sources": [
+      {
+        "paper": "orchestrates an apoptotic transcriptome",
+        "section": "Background",
+        "score": 1.0,
+        "sources": [
+          "hyde",
+          "bm25",
+          "reranked",
+          "dense"
+        ]
+      },
+      {
+        "paper": "Controls Apoptosis and Gene Expression in the",
+        "section": "Discussion",
+        "score": 0.928,
+        "sources": [
+          "hyde",
+          "reranked",
+          "dense"
+        ]
+      },
+      {
+        "paper": "Theoretical Biology and Medical",
+        "section": "Circumstantial context analysis on actual transcriptome",
+        "score": 0.173,
+        "sources": [
+          "hyde",
+          "reranked",
+          "dense"
+        ]
+      }
+    ]
+  },
+  {
+    "question": "Which studies show that apoptosis can be triggered independently of p53, and how do their mechanisms differ?",
+    "answer": "According to the provided context chunks from the paper \"Controls Apoptosis and Gene Expression in the \u2014 TAF6 d activates gene expression independently of p53\", TAF6 d can induce apoptosis independently of p53. The study shows that TAF6 d induces apoptosis in cells lacking p53 and activates gene expression independently of cellular p53 status [Controls Apoptosis and Gene Expression in the \u2014 TAF6 d activates gene expression independently of p53]. \n\nThe mechanism involves the activation of genes such as HOM-TES-103, HES1, and ACRC independently of p53, which are candidate genes that could mediate TAF6 d-dependent apoptosis [Controls Apoptosis and Gene Expression in the \u2014 Discussion]. The TAF6 \u03b4 pathway represents a distinct mechanism that controls apoptosis without p53 but has interconnections to the p53 pathway, including shared target genes [Controls Apoptosis and Gene Expression in the \u2014 Discussion].\n\nSince there is only one paper referenced in the context, there are no differing mechanisms from multiple studies to compare. The context is limited to a single study, and therefore, it is insufficient to compare mechanisms across different studies.",
+    "chunks_retrieved": 15,
+    "sources": [
+      {
+        "paper": "Controls Apoptosis and Gene Expression in the",
+        "section": "TAF6 d activates gene expression independently of p53",
+        "score": 1.0,
+        "sources": [
+          "hyde",
+          "bm25",
+          "reranked",
+          "dense"
+        ]
+      },
+      {
+        "paper": "orchestrates an apoptotic transcriptome",
+        "section": "Background",
+        "score": 0.8,
+        "sources": [
+          "hyde",
+          "bm25",
+          "reranked",
+          "dense"
+        ]
+      }
+    ]
+  },
+  {
+    "question": "What quantitative effect on apoptosis was demonstrated when TAF6 delta was expressed?",
+    "answer": "Endogenous TAF6\u03b4 expression induces apoptosis in the absence of p53 [TAF6 d Controls Death Sans p53 PLoS ONE]. Specifically, it was demonstrated that treatment of HeLa cells with a specific oligonucleotide resulted in a significant increase in apoptotic cells, as indicated by a 3.5-fold increase in KRT18c positive cells [Controls Apoptosis and Gene Expression in the \u2014 Endogenous TAF6 d expression causes apoptosis in HeLa]. The pro-apoptotic activity of TAF6\u03b4 has been demonstrated using modified antisense RNA oligonucleotides to experimentally direct its expression in living cells [Controls Apoptosis and Gene Expression in the \u2014 TAF6 d induces apoptosis in the absence of p53].",
+    "chunks_retrieved": 14,
+    "sources": [
+      {
+        "paper": "Controls Apoptosis and Gene Expression in the",
+        "section": "Caption: Figure 6",
+        "score": 1.0,
+        "sources": [
+          "hyde",
+          "bm25",
+          "reranked",
+          "dense"
+        ]
+      },
+      {
+        "paper": "Theoretical Biology and Medical",
+        "section": "Transcriptome data",
+        "score": 0.973,
+        "sources": [
+          "hyde",
+          "bm25",
+          "reranked"
+        ]
+      },
+      {
+        "paper": "orchestrates an apoptotic transcriptome",
+        "section": "Abstract",
+        "score": 0.966,
+        "sources": [
+          "hyde",
+          "bm25",
+          "reranked",
+          "dense"
+        ]
+      }
+    ]
+  },
+  {
+    "question": "What evidence across the papers supports the link between gene expression reprogramming and apoptosis?",
+    "answer": "The evidence across the papers supports that gene expression plays a crucial role in apoptosis. Specifically, it is stated that \"Gene expression patterns of pro- and anti-apoptotic genes... can dictate the life-or-death decisions of cells\" [Controls Apoptosis and Gene Expression in the \u2014 Introduction]. Furthermore, the levels of numerous death-related genes can be induced during apoptosis [Controls Apoptosis and Gene Expression in the \u2014 Introduction]. \n\nThe papers also provide evidence that specific proteins and complexes, such as p53 and TAF6, are involved in controlling apoptosis by altering gene expression. For example, \"The most intensely studied protein known to control apoptosis by altering gene expression is the p53 tumor suppressor\" [Controls Apoptosis and Gene Expression in the \u2014 Introduction]. Moreover, TAF6\u03b4 can induce apoptosis in the absence of p53, as shown in Figure 6 of \"Controls Apoptosis and Gene Expression in the \u2014 Caption: Figure 6\" and \"orchestrates an apoptotic transcriptome \u2014 Caption: Figure 6\". The latter figure also provides evidence for transcriptional crosstalk between endogenous TAF6\u03b4 and p53.\n\nThese findings collectively suggest a link between gene expression reprogramming and apoptosis, with key roles played by proteins such as p53 and TAF6\u03b4 [Controls Apoptosis and Gene Expression in the \u2014 Introduction; orchestrates an apoptotic transcriptome \u2014 Caption: Figure 6].",
+    "chunks_retrieved": 3,
+    "sources": [
+      {
+        "paper": "Controls Apoptosis and Gene Expression in the",
+        "section": "Introduction",
+        "score": 1.0,
+        "sources": [
+          "hyde",
+          "bm25",
+          "reranked",
+          "dense"
+        ]
+      },
+      {
+        "paper": "orchestrates an apoptotic transcriptome",
+        "section": "Caption: Figure 6",
+        "score": 0.211,
+        "sources": [
+          "hyde",
+          "bm25",
+          "reranked"
+        ]
+      }
+    ]
+  },
+  {
+    "question": "What are the key transcription factors involved in regulating apoptosis pathways across these studies?",
+    "answer": "Based on the provided context, the key transcription factors involved in regulating apoptosis pathways are:\n\n1. TAF6\u03b4 (also known as TAF6 delta), an inducible splice variant of the TFIID subunit TAF6, which controls cell death through the TAF6\u03b4 pathway [1: \"orchestrates an apoptotic transcriptome \u2014 Background\"].\n2. p53, a gene that is often involved in regulating apoptosis, but is shown to be dispensable for TAF6\u03b4-induced apoptosis [3: \"Controls Apoptosis and Gene Expression in the \u2014 Caption: Figure 5\"].\n\nIt is demonstrated that TAF6\u03b4 acts downstream and independently of p53 to control gene expression at the onset of apoptosis [2: \"Theoretical Biology and Medical \u2014 Circumstantial context analysis on actual transcriptome\"]. \n\nTherefore, TAF6\u03b4 is a key transcription factor involved in regulating apoptosis pathways.",
+    "chunks_retrieved": 3,
+    "sources": [
+      {
+        "paper": "orchestrates an apoptotic transcriptome",
+        "section": "Background",
+        "score": 1.0,
+        "sources": [
+          "hyde",
+          "bm25",
+          "reranked",
+          "dense"
+        ]
+      },
+      {
+        "paper": "Theoretical Biology and Medical",
+        "section": "Circumstantial context analysis on actual transcriptome",
+        "score": 0.47,
+        "sources": [
+          "hyde",
+          "bm25",
+          "reranked",
+          "dense"
+        ]
+      },
+      {
+        "paper": "Controls Apoptosis and Gene Expression in the",
+        "section": "Caption: Figure 5",
+        "score": 0.222,
+        "sources": [
+          "hyde",
+          "bm25",
+          "reranked",
+          "dense"
+        ]
+      }
+    ]
+  }
+]
